@@ -1,14 +1,14 @@
-<h1 align="center">🐍 Tugas Python P4</h1>
+<h1 align="center">🐍 Tugas Python P5</h1>
 
 <p align="center">
-  Project tugas Python Algoritma Pertemuan 4
+  Project tugas Python Algoritma Pertemuan 5
 </p>
 
 ---
 
 <h2>📖 Deskripsi</h2>
 <p>
-Repository ini berisi kumpulan 3 program Python yang menghasilkan output
+Repository ini berisi kumpulan 2 program Python yang menghasilkan output
 Project ini dibuat untuk memenuhi tugas serta melatih pemahaman dasar Python.
 </p>
 
